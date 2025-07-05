@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/N6PQS861/IMG-20250705-224313-154.jpg" width="75%" />
+<img src="https://i.ibb.co/N6PQS861/IMG-20250705-224313-154.jpg" width="100%" height="250" />
 
 ## 👋 Hi, I'm Ahmed ElNekity
 
