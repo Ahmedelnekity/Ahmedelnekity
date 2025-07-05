@@ -1,4 +1,4 @@
-<img src="https://your-image-host.com/ahmed-elnikity-logo.jpg" width="100%" />
+<img src="https://i.ibb.co/N6PQS861/IMG-20250705-224313-154.jpg" width="100%" />
 
 ## 👋 Hi, I'm Ahmed ElNekity
 
@@ -27,5 +27,5 @@ I'm a communications & electronics engineering student passionate about:
 
 ---
 
-<!-- You can add more sections like Projects, Certificates, etc. -->
+<!-- You can add more sections like Projects, Certificates, or Tools -->
 
