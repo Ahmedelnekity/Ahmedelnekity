@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/N6PQS861/IMG-20250705-224313-154.jpg" style="width: 100%; max-height: 60px; object-fit: cover;" />
+<img src="https://i.postimg.cc/tJx0h7Sy/IMG-20250705-231355.jpg" style="width: 100%; max-height: 120px; object-fit: cover;" />
 
 ## 👋 Hi, I'm Ahmed ElNekity
 
@@ -24,8 +24,3 @@ I'm a communications & electronics engineering student passionate about:
 - Linux Basics  
 - CCNA (IP, Routing, Switching)  
 - Docker & Git (beginner)
-
----
-
-<!-- You can add more sections like Projects, Certificates, or Tools -->
-
